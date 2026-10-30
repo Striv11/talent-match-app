@@ -1,0 +1,21 @@
+{
+  "candidates": [
+    {
+      "id": "cand_8d0b64ff12",
+      "ownerId": "local-dev",
+      "origin": "self",
+      "name": "Local developer",
+      "skills": [],
+      "discoverable": false,
+      "createdAt": "2026-10-19T18:30:41.315Z",
+      "updatedAt": "2026-10-19T18:30:41.316Z",
+      "currentTitle": "Investment Strategy Analyst",
+      "currentCompany": "Dell"
+    }
+  ],
+  "companies": [],
+  "roles": [],
+  "intros": [],
+  "applications": [],
+  "interviews": []
+}

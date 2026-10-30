@@ -1,0 +1,16 @@
+{
+  "name": "jack-and-jill-india-app",
+  "version": "1.0.0",
+  "description": "Jack & Jill India AI recruiting MVP",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "@google/genai": "^1.30.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.19.2",
+    "google-auth-library": "^10.9.1"
+  }
+}
